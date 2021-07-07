@@ -4,5 +4,5 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCarlosAp&layout=compact&theme=slateorange" alt="JoaoCarlosAp" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoCarlosAp&show_icons=true&theme=slateorange" alt="JoaoCarlosAp" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCarlosAp&layout=compact&theme=slateorange" alt="JoaoCarlosAp" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoCarlosAp&show_icons=true&theme=slateorange" alt="JoaoCarlosAp" /></p>
