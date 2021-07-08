@@ -1,9 +1,10 @@
 ## Oi! Eu sou João Carlos
 
 <div>
-  <a href="https://github.com/JoaoCarlosAp">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCarlosAp&layout=compact&theme=slateorange" alt="JoaoCarlosAp" /></p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoCarlosAp&show_icons=true&theme=slateorange" alt="JoaoCarlosAp" /></p>
+	<p>
+		<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCarlosAp&layout=compact&theme=slateorange" alt="JoaoCarlosAp" /></p>
+  		<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoCarlosAp&show_icons=true&theme=slateorange" alt="JoaoCarlosAp" /></p>
+	</p>
 </div>
 <div style="display: inline_block; width: 50%"><br>
   <h2>Languages
