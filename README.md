@@ -19,8 +19,8 @@
   <h2>Development Tools
 	  <img src = "https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/source.gif" width = 50px height="25px">
   </h2> 
-  <a href="https://code.visualstudio.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="32"/>
-  </a>
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="32"/> 
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" height="32"/> 
+    <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white" height="32"/>
 </div>
   
